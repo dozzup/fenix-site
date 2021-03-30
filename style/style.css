@@ -1,0 +1,55 @@
+h1, h2 {
+    text-align: center;
+    font-family: Dela Gothic One;
+    font-size: 50px;
+}
+
+.fenix-main {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+}
+
+.fenix-p {
+    text-align: center;
+    display: block;
+    width: 1000px;
+    margin: 0 auto;
+    font-family: Source Sans Pro;
+    font-size: 25px;
+    background-color: red;
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 20px;
+}
+
+html {
+    background-color: orangered;
+}
+
+.fenix-lukas {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+}
+
+.lukas-p {
+    text-align: center;
+    display: block;
+    width: 1000px;
+    margin: 0 auto;
+    font-family: Source Sans Pro;
+    font-size: 25px;
+    background-color: red;
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 20px;
+}

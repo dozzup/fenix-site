@@ -1,4 +1,4 @@
-h1, h2 {
+h1, h2, h3 {
     text-align: center;
     font-family: Dela Gothic One;
     font-size: 50px;
@@ -52,4 +52,12 @@ html {
     border-style: solid;
     border-color: red;
     border-radius: 20px;
+}
+
+.credit {
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-size: 20px;
+    font-family: Source Sans Pro;
 }
